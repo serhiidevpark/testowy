@@ -1,0 +1,16 @@
+    /**
+     * @feature Company 
+     * @scenario Activate
+     * @case Success
+     *
+     * @test
+     */
+    public function activate_success()
+    {
+        //Given
+
+        //When
+  
+        //Then
+        $this->assertInstanceOf();
+    }
