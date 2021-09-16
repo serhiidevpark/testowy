@@ -2,8 +2,9 @@
 
     /**
      * @feature Company
-     * @scenario Activate 1233
+     * @scenario Activate
      * @case Success
+     *
      *
      *
      * @test
@@ -17,4 +18,5 @@
         //Then
         $this->assertInstanceOf();
     
+
 }
