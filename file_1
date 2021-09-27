@@ -1,13 +1,13 @@
 
 
     /**
-     * @feature Company 123
-     * @scenario Activate 123
-     * @case Success 123
+     * @feature Company 1
+     * @scenario Activate 1
+     * @case Success 1
      * 
-     * @feature Company
-     * @scenario Activate
-     * @case Fail
+     * @feature Company 2
+     * @scenario Activate 2
+     * @case Fail 2
      * 
      * @test
      */
@@ -20,6 +20,7 @@
         //Then
         $this->assertInstanceOf();
     
+
 
 
 
