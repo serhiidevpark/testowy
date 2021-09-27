@@ -5,6 +5,8 @@
      * @scenario Activate
      * @case Success
      * 
+     * @description some description
+     * 
      * @test
      */
     public function activate_success()
@@ -16,6 +18,7 @@
         //Then
         $this->assertInstanceOf();
     
+
 
 
 
