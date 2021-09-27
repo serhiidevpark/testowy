@@ -5,6 +5,10 @@
      * @scenario Activate 123
      * @case Success 123
      * 
+     * @feature Company
+     * @scenario Activate
+     * @case Fail
+     * 
      * @test
      */
     public function activate_success()
@@ -16,6 +20,7 @@
         //Then
         $this->assertInstanceOf();
     
+
 
 
 }
